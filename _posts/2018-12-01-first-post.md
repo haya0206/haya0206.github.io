@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Jekyll!"
-{{ site.time | date: '%y' }}
+date: 2018-12-01 04:09:30 -0400
 categories: jekyll update
 ---
 
